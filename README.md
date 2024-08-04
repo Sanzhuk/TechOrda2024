@@ -5,7 +5,7 @@ Task 2 - Система логирования
 # Запуск программы
 
 - Clone this repo
-- Start the program
+- Start the program: python main.py
 - Follow the instructions
 
 # Пример программы
